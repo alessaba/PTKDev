@@ -1,0 +1,9 @@
+Package: be.francysuri.ptkdev
+Name: PTKDev
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Francesco Surace
+Author: Francesco Surace
+Section: Utilities
